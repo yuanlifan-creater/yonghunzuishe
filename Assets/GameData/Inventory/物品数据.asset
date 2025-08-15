@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4390aebffdf0d75448fd3472cd8b95ff, type: 3}
+  m_Name: "\u7269\u54C1\u6570\u636E"
+  m_EditorClassIdentifier: 
+  itemDetails:
+  - itemID: 1001
+    name: "\u788E\u7247"
+    itemIcon: {fileID: -1904968881, guid: bdeaeacf91e805f449e7fa66d480d644, type: 3}
+    itemOnWorldSprite: {fileID: -1904968881, guid: bdeaeacf91e805f449e7fa66d480d644, type: 3}
+    itemDesciption: "\u6211\u7684\u94E0\u7532\u4E0A\u7684\u788E\u7247\uFF0C\u82E5\u80FD\u6536\u96C6\u5230\u8DB3\u591F\u7684\u788E\u7247\u60F3\u5FC5\u80FD\u63D0\u5347\u94E0\u7532\u7684\u5B8C\u6574"
+    itemPrice: 800
+    itemType: 3
+  - itemID: 1002
+    name: "\u7F8E\u672F"
+    itemIcon: {fileID: -2105115776, guid: bdeaeacf91e805f449e7fa66d480d644, type: 3}
+    itemOnWorldSprite: {fileID: -2105115776, guid: bdeaeacf91e805f449e7fa66d480d644, type: 3}
+    itemDesciption: 
+    itemPrice: 30
+    itemType: 3
